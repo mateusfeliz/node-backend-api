@@ -1,8 +1,7 @@
-# NodeJs BackEnd API using Mongo DB
-RESTful api using NodeJS, express and MongoDB. A API foi criada pensando no modelo do site "Product Hunt".
+# BackEnd API usando Mongo DB
+RESTful API usando NodeJS, express and MongoDB. A API foi criada pensando no modelo do site "Product Hunt".
 
 ![image](https://user-images.githubusercontent.com/60768847/78147905-88182480-740a-11ea-9d06-0ce911e5be70.png)
-
 
 ## Motivo
 Repositório criado para hospedar o código criado durante o curso da RocketSeat sobre NodeJS. 
@@ -11,3 +10,4 @@ Repositório criado para hospedar o código criado durante o curso da RocketSeat
 - [X] Respostas em JSON
 - [X] Mongo DB
 - [X] ExpresJS
+- [X] Heroku 
